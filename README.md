@@ -1,8 +1,4 @@
-# Restaurant-simulation-
 
-Excellent! This is a great project that demonstrates object-oriented programming, transaction tracking, and commission calculations. Here's a comprehensive `README.md` template for your restaurant simulation:
-
----
 
 # Restaurant Management Simulation
 
