@@ -1,16 +1,14 @@
 
+Restaurant Management Simulation
 
-# Restaurant Management Simulation
+A console-based restaurant management system that handles orders, calculates waiter commissions, and delivers detailed sales analytics. This project models real-world restaurant operations with an emphasis on order handling and financial reporting.
 
-A console-based restaurant management system that tracks orders, calculates waiter commissions, and provides comprehensive sales analytics. This project simulates real-world restaurant operations with a focus on order processing and financial reporting.
-
-## Features
-
-### Order Management
-- **Dual Order Types:** Support for both **Take-out** and **Dine-in** orders
-- **Order Tracking:** Each order is timestamped and assigned to a specific waiter
-- **Menu System:** Flexible menu structure with configurable items and prices
-- **Order Modification:** Add, remove, or modify items within orders
+Features
+Order Management
+Dual Order Types: Handles both Take-out and Dine-in orders
+Order Tracking: Every order is timestamped and linked to a specific waiter
+Menu System: Customizable menu with configurable items and prices
+Order Modification: Add, remove, or update items within existing orders
 
 ### Commission System
 - **Individual Waiter Tracking:** Each waiter maintains their own sales ledger
